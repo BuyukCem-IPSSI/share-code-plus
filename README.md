@@ -38,10 +38,10 @@ l'en-tête HTTP) vers une autre url.
 ![](sharecode1.png)
 # Exercice:
 J'ai fais une branch par partie.
-Partie 1: FINI  
-Partie 2: FINI 
-Partie 3: j'ai la fonction dans le modele, la partie front à des probleme j'ai pas eu de temps
-Partie 4: J'ai pas reussie à implementer la fonctionnalité 
+- Partie 1: FINI  
+- Partie 2: FINI 
+- Partie 3: j'ai la fonction dans le modele, la partie front à des probleme j'ai pas eu de temps
+- Partie 4: J'ai pas reussie à implementer la fonctionnalité 
 # Atelier : améliorer l'application
 
 Livrables : dans un dépôt GIT public (gitlab, github, framagit, ...) 
