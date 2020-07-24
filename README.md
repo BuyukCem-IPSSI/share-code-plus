@@ -36,6 +36,8 @@ etc. de fichiers par exemple) se termine en redirigeant (Location: http://.../ai
 l'en-tête HTTP) vers une autre url.
 
 ![](sharecode1.png)
+# Exercice:
+J'ai fais une branch par partie.
 
 # Atelier : améliorer l'application
 
